@@ -267,8 +267,8 @@ pytest tests/ -v
 
 ## 👤 Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+**ADITYA JAISWAL**  
+[LinkedIn](https://linkedin.com/in/aditya-jaiswal-280a832b9) · [GitHub](https://github.com/ARRYTECHVIEW)
 
 ---
 
